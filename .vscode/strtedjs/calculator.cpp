@@ -13,7 +13,7 @@ int main()
 
 
     cout<<"bharu : "<<b<<endl;
-    cout<<"with 10% : "<<b<<endl;
+    cout<<"with 10% : "<<c<<endl;
     return 0;
 }
 
