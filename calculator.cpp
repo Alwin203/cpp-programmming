@@ -12,4 +12,3 @@ int main()
     cout<<"with 10% : "<<c<<endl;
     return 0;
 }
-
